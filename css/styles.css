@@ -220,14 +220,14 @@ Navbar
   background: var(--clr-primary-8);
   padding-left: 2.25rem;
 }
-/* 210px */
+/* 280px */
 .nav-links {
   height: 0;
   overflow: hidden;
   transition: var(--transition);
 }
 .show-links {
-  height: 210px;
+  height: 280px;
 }
 @media screen and (min-width: 992px) {
   /* hide toggle button */
